@@ -1,6 +1,5 @@
 'use strict'
 
-
 let cQuestion = 0;
 let questions = [
     {
